@@ -1,0 +1,16 @@
+Functionality:
+1. Upload photo
+2. Life Sync photo with UI
+3. Gesture detector to adjust Photo direction
+4. Trip/Crop photo Functionality
+5. Size optimizing to at most 800KB - (Reduce photo size method)
+6. Basic async manipulation...
+
+Details:
+1. Upload photo:
+- Draw a circle on 'app' and position it on image appropriately,
+using Stack.
+- Add an image as an 'avatar', place a cool border.
+- Add a 'Inkwell' to the circle.
+- Use State management<Provider> to change the default photo & try
+database backup.
