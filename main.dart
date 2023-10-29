@@ -9,7 +9,7 @@ import 'package:tsmcd_dp/utils/constants.dart';
 void main() async {
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyCQUw3wBcJYRIrICck1mRjXZHO4jnAFB7M",
+      apiKey: "apiKey",
       authDomain: "living-flames---tsmcd.firebaseapp.com",
       appId: "1:499566340122:web:a53c50c0d1c44f12b249a3",
       messagingSenderId: "499566340122",
